@@ -1,0 +1,33 @@
+{
+    "dependencies": {
+        "colors": "^1.4.0",
+        "express": "^4.17.1"
+    },
+    "name": "trabajo_notas",
+    "version": "1.0.0",
+    "description": "Curso practico de nodejs",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "desarrollo": "node servidor.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JairoCastilloR/Node.git"
+    },
+    "keywords": [
+        "Curso",
+        "nodejs",
+        "practica",
+        "espaniol"
+    ],
+    "author": "Jairo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JairoCastilloR/Node/issues"
+    },
+    "homepage": "https://github.com/JairoCastilloR/Node#readme",
+    "devDependencies": {
+        "supervisor": "^0.12.0"
+    }
+}
